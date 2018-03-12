@@ -1,2 +1,2 @@
 # testgit
-github tutorial
+github tutorial is repository...
